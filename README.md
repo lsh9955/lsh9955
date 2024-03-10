@@ -3,11 +3,7 @@
   <h2>프론트앤드 개발자 이석훈입니다</h2>
   <br>
   <div>
-<!--     <a href="https://velog.io/@snowman">BLOG</a>
-    <span>|</span>
-    <a href="https://lullaby.notion.site/a3b7ba1ea8f04f558d835dcada2dc973">RESUME</a>
-    <span>|</span>
-    <a href="https://www.notion.so/lullaby/ca3719a09a204c0d8e86c82aa7f68cf0?pvs=4">PORTFOLIO</a> -->
+
   </div>
   
 <br>  
